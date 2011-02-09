@@ -6,3 +6,9 @@ body {
 div.container {
 	margin-top: 3em;
 }
+/* width: 136px; height: 124px; */
+#sprite {
+	width: 136px;
+	height: 124px;
+	background: url('logo-sprite.png') 0 0 no-repeat;
+}
